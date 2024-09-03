@@ -14,7 +14,7 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
 ["529618029151", '@𝘠𝘢𝘭𝘭𝘪𝘤𝘰.𝘖𝘸𝘯𝘦𝘳 🤖', true], //𝘍𝘭𝘢𝘴𝘩 𝘉𝘰𝘵 𝘗𝘳𝘰 🤖
-["529611844029"]]
+["529612330992"]]
 
 global.mods = []
 global.prems = []
@@ -116,7 +116,7 @@ global.moment = moment
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
 ["529618029151", '@𝘠𝘢𝘭𝘭𝘪𝘤𝘰.𝘖𝘸𝘯𝘦𝘳 🤖', 1], 
-["529611844029", '@𝘠𝘢𝘭𝘭𝘪𝘤𝘰.𝘖𝘸𝘯𝘦𝘳 🤖', 1]]
+["529612330992", '@𝘠𝘢𝘭𝘭𝘪𝘤𝘰.𝘖𝘸𝘯𝘦𝘳 🤖', 1]]
 
 global.mail = 'yallico2024@gmail.com ' // Add email
 global.desc = '' // Add short description (20 caractres max)
